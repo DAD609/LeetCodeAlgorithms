@@ -1,4 +1,5 @@
-"""You are given a large sample of integers in the range [0, 255]. Since the sample is so large, it is represented by an array count where count[k] is the number of times that k appears in the sample.
+'''
+You are given a large sample of integers in the range [0, 255]. Since the sample is so large, it is represented by an array count where count[k] is the number of times that k appears in the sample.
 
 Calculate the following statistics:
 
@@ -9,4 +10,5 @@ median:
 If the sample has an odd number of elements, then the median is the middle element once the sample is sorted.
 If the sample has an even number of elements, then the median is the average of the two middle elements once the sample is sorted.
 mode: The number that appears the most in the sample. It is guaranteed to be unique.
-Return the statistics of the sample as an array of floating-point numbers [minimum, maximum, mean, median, mode]. Answers within 10-5 of the actual answer will be accepted."""
+Return the statistics of the sample as an array of floating-point numbers [minimum, maximum, mean, median, mode]. Answers within 10-5 of the actual answer will be accepted.
+'''
